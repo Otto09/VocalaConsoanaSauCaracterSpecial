@@ -1,2 +1,2 @@
 ### `VocalaConsoanaSauCaracterSpecial` 
-Aplicatie in care se introduce un caracter de la tastatura si apoi se afiseaza daca s-a introdus o vocala, o consoana sau un semn special.	
+Application in which is introduced a character from keyboard, then displays if is a vowel, a consonant or a special character.
